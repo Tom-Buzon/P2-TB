@@ -73,7 +73,7 @@ nav :nth-child(5) a{
 .formtrouver {
     display: flex;
     border-radius: 10px;
-    width: fit-content;
+    width: 290px;
     background-color: #F2F2F2;
     margin-bottom: 25px;
     height: 40px;
@@ -582,6 +582,7 @@ footer {
     }
     .formtrouver{
         margin:auto;
+        width:260px;
     }
     .bouton:hover {
         border:none;
