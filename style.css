@@ -658,6 +658,8 @@ footer {
     .bulle {
         flex-basis: 100%;
         box-shadow: 2px 2px 2px lightgrey;
+        padding:0px;
+        margin-bottom:10px;
     }
     .bulle2 {
         width: 100%;
